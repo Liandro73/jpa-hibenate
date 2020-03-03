@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2beeaf65-aba1-418e-ba4f-5e4326df7673" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="jpa-hibernate" />
+  </component>
+  <component name="ProjectId" id="1YPrNhQlAhrP6UIu1rVcmgOiaQb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Programa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.liandro.aplicativo.Programa" />
+      <module name="jpa-hibernate" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JBossConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="SERVER" value="" />
+        <option name="BINDING_SET_NAME" value="" />
+        <option name="DOMAIN" value="false" />
+        <option name="SERVER_GROUP" value="" />
+        <option name="USERNAME" value="" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="JBoss" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="41823" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.27" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_jpa-hibernate" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="44879" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Programa" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="419" y="28" width="800" height="672" key="#Tomcat_Server" timestamp="1582858885637">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state x="419" y="28" width="800" height="672" key="#Tomcat_Server/0.0.1366.735@0.0.1366.735" timestamp="1582858885637" />
+    <state x="282" y="25" width="883" height="672" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582859472379">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state x="282" y="25" width="883" height="672" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.735@0.0.1366.735" timestamp="1582859472379" />
+    <state x="747" y="59" width="546" height="611" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1582858009254">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state x="747" y="59" width="546" height="611" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.735@0.0.1366.735" timestamp="1582858009254" />
+    <state x="366" y="97" width="624" height="533" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582938223018">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state x="366" y="97" width="624" height="533" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.735@0.0.1366.735" timestamp="1582938223018" />
+    <state x="808" y="126" width="424" height="478" key="FileChooserDialogImpl" timestamp="1582858883308">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state x="808" y="126" width="424" height="478" key="FileChooserDialogImpl/0.0.1366.735@0.0.1366.735" timestamp="1582858883308" />
+    <state width="640" height="176" key="GridCell.Tab.0.bottom" timestamp="1582857509463">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state width="640" height="176" key="GridCell.Tab.0.bottom/0.0.1366.735@0.0.1366.735" timestamp="1582857509463" />
+    <state width="640" height="176" key="GridCell.Tab.0.center" timestamp="1582857509463">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state width="640" height="176" key="GridCell.Tab.0.center/0.0.1366.735@0.0.1366.735" timestamp="1582857509463" />
+    <state width="640" height="176" key="GridCell.Tab.0.left" timestamp="1582857509460">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state width="640" height="176" key="GridCell.Tab.0.left/0.0.1366.735@0.0.1366.735" timestamp="1582857509460" />
+    <state width="640" height="176" key="GridCell.Tab.0.right" timestamp="1582857509463">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state width="640" height="176" key="GridCell.Tab.0.right/0.0.1366.735@0.0.1366.735" timestamp="1582857509463" />
+    <state x="370" y="180" key="com.intellij.ide.util.TipDialog" timestamp="1583245444856">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state x="370" y="180" key="com.intellij.ide.util.TipDialog/0.0.1366.735@0.0.1366.735" timestamp="1583245444856" />
+    <state x="691" y="0" width="658" height="730" key="new project wizard" timestamp="1582858427859">
+      <screen x="0" y="0" width="1366" height="735" />
+    </state>
+    <state x="691" y="0" width="658" height="730" key="new project wizard/0.0.1366.735@0.0.1366.735" timestamp="1582858427859" />
+  </component>
+</project>
