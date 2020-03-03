@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2beeaf65-aba1-418e-ba4f-5e4326df7673" name="Default Changelist" comment="" />
+    <list default="true" id="2beeaf65-aba1-418e-ba4f-5e4326df7673" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/liandro/aplicativo/Programa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/liandro/aplicativo/Programa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +29,11 @@
   <component name="FavoritesManager">
     <favorites_list name="jpa-hibernate" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YPrNhQlAhrP6UIu1rVcmgOiaQb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,6 +41,10 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
     <configuration name="Programa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -166,22 +179,22 @@
       <screen x="0" y="0" width="1366" height="735" />
     </state>
     <state x="808" y="126" width="424" height="478" key="FileChooserDialogImpl/0.0.1366.735@0.0.1366.735" timestamp="1582858883308" />
-    <state width="640" height="176" key="GridCell.Tab.0.bottom" timestamp="1582857509463">
+    <state width="640" height="176" key="GridCell.Tab.0.bottom" timestamp="1583249410147">
       <screen x="0" y="0" width="1366" height="735" />
     </state>
-    <state width="640" height="176" key="GridCell.Tab.0.bottom/0.0.1366.735@0.0.1366.735" timestamp="1582857509463" />
-    <state width="640" height="176" key="GridCell.Tab.0.center" timestamp="1582857509463">
+    <state width="640" height="176" key="GridCell.Tab.0.bottom/0.0.1366.735@0.0.1366.735" timestamp="1583249410147" />
+    <state width="640" height="176" key="GridCell.Tab.0.center" timestamp="1583249410146">
       <screen x="0" y="0" width="1366" height="735" />
     </state>
-    <state width="640" height="176" key="GridCell.Tab.0.center/0.0.1366.735@0.0.1366.735" timestamp="1582857509463" />
-    <state width="640" height="176" key="GridCell.Tab.0.left" timestamp="1582857509460">
+    <state width="640" height="176" key="GridCell.Tab.0.center/0.0.1366.735@0.0.1366.735" timestamp="1583249410146" />
+    <state width="640" height="176" key="GridCell.Tab.0.left" timestamp="1583249410144">
       <screen x="0" y="0" width="1366" height="735" />
     </state>
-    <state width="640" height="176" key="GridCell.Tab.0.left/0.0.1366.735@0.0.1366.735" timestamp="1582857509460" />
-    <state width="640" height="176" key="GridCell.Tab.0.right" timestamp="1582857509463">
+    <state width="640" height="176" key="GridCell.Tab.0.left/0.0.1366.735@0.0.1366.735" timestamp="1583249410144" />
+    <state width="640" height="176" key="GridCell.Tab.0.right" timestamp="1583249410147">
       <screen x="0" y="0" width="1366" height="735" />
     </state>
-    <state width="640" height="176" key="GridCell.Tab.0.right/0.0.1366.735@0.0.1366.735" timestamp="1582857509463" />
+    <state width="640" height="176" key="GridCell.Tab.0.right/0.0.1366.735@0.0.1366.735" timestamp="1583249410147" />
     <state x="370" y="180" key="com.intellij.ide.util.TipDialog" timestamp="1583245444856">
       <screen x="0" y="0" width="1366" height="735" />
     </state>
